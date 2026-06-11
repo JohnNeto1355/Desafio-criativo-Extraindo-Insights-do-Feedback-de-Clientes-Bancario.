@@ -32,7 +32,7 @@ A base de dados poderá conter:
 
 Data do comentário;
 
-Canal de atendimento;
+Canal de atendimento,
 
 Texto do feedback;
 
@@ -82,7 +82,7 @@ Serão fornecidos:
 
 Data do feedback;
 
-Canal de atendimento;
+Canal de atendimento, 
 
 Texto do comentário;
 
